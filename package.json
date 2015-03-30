@@ -1,0 +1,22 @@
+{
+  "name": "leeroy-jenkins",
+  "version": "1.0.1",
+  "description": "Leeeeeroy Jeeeenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vdemedes/leeroy-jenkins.git"
+  },
+  "keywords": [
+    "jenkins"
+  ],
+  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/vdemedes/leeroy-jenkins/issues"
+  },
+  "homepage": "https://github.com/vdemedes/leeroy-jenkins"
+}
