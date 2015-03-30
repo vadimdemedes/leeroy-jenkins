@@ -23,6 +23,11 @@ throw new Error('Oh shit!');
 ```
 
 
+### Credits
+
+Thanks to my awesome friend, [Dimitris Psaropoulos](http://harby.me/), for inspiring me to turn this project into reality.
+
+
 ### Tests
 
 ```
